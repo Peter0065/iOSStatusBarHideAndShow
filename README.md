@@ -1,2 +1,2 @@
 # iOSStatusBarHideAndShow
- A test demo of iOS status hide and show.
+ A test demo of iOS statusBar hide and show.
